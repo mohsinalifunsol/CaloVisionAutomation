@@ -1,0 +1,243 @@
+2026-02-13 11:43:48 - core.ob_flow_first_session - INFO - === Starting Onboarding Flow ===
+2026-02-13 11:43:48 - core.ob_flow_first_session - INFO - Waiting for splash screen (minimum 4 seconds)...
+2026-02-13 11:43:48 - core.ob_flow_first_session - INFO - App activity detected after 0.07 seconds.
+2026-02-13 11:43:48 - core.ob_flow_first_session - INFO - Waiting additional 3.93 seconds for splash screen...
+2026-02-13 11:43:52 - core.ob_flow_first_session - INFO - Splash Screen wait completed.
+2026-02-13 11:43:52 - core.ob_flow_first_session - INFO - Waiting 2 seconds for UI to stabilize...
+2026-02-13 11:43:55 - core.ob_flow_first_session - INFO - ✓ Get Started button is visible
+2026-02-13 11:43:55 - core.ob_flow_first_session - INFO - ✓ Onboarding screen loaded successfully
+2026-02-13 11:43:55 - core.ob_flow_first_session - INFO - Attempting to click Get Started button...
+2026-02-13 11:43:55 - core.ob_flow_first_session - INFO - ✓ Successfully clicked Get Started button
+2026-02-13 11:43:57 - core.ob_flow_first_session - INFO - === Onboarding Flow Completed Successfully ===
+2026-02-13 12:11:45 - core.ob_flow_first_session - INFO - === Starting Onboarding Flow ===
+2026-02-13 12:11:45 - core.ob_flow_first_session - INFO - Waiting for splash screen (minimum 4 seconds)...
+2026-02-13 12:11:45 - core.ob_flow_first_session - INFO - App activity detected after 0.07 seconds.
+2026-02-13 12:11:45 - core.ob_flow_first_session - INFO - Waiting additional 3.93 seconds for splash screen...
+2026-02-13 12:11:49 - core.ob_flow_first_session - INFO - Splash Screen wait completed.
+2026-02-13 12:11:49 - core.ob_flow_first_session - INFO - Waiting 2 seconds for UI to stabilize...
+2026-02-13 12:11:51 - core.ob_flow_first_session - INFO - ✓ Get Started button is visible
+2026-02-13 12:11:51 - core.ob_flow_first_session - INFO - ✓ Onboarding screen 1 loaded successfully
+2026-02-13 12:11:51 - core.ob_flow_first_session - INFO - Attempting to click Get Started button...
+2026-02-13 12:11:51 - core.ob_flow_first_session - INFO - ✓ Successfully clicked Get Started button
+2026-02-13 12:11:54 - core.ob_flow_first_session - INFO - ✓ Continue button is visible
+2026-02-13 12:11:54 - core.ob_flow_first_session - INFO - ✓ Onboarding screen 2 (Continue) loaded successfully
+2026-02-13 12:11:54 - core.ob_flow_first_session - INFO - Attempting to click Continue button...
+2026-02-13 12:11:54 - core.ob_flow_first_session - INFO - ✓ Successfully clicked Continue button
+2026-02-13 12:11:56 - core.ob_flow_first_session - INFO - === Onboarding Flow Completed Successfully ===
+2026-02-13 12:33:15 - core.ob_flow_first_session - INFO - === Starting Onboarding Flow ===
+2026-02-13 12:33:15 - core.ob_flow_first_session - INFO - Waiting for splash screen (minimum 4 seconds)...
+2026-02-13 12:33:15 - core.ob_flow_first_session - INFO - App activity detected after 0.08 seconds.
+2026-02-13 12:33:15 - core.ob_flow_first_session - INFO - Waiting additional 3.92 seconds for splash screen...
+2026-02-13 12:33:19 - core.ob_flow_first_session - INFO - Splash Screen wait completed.
+2026-02-13 12:33:19 - core.ob_flow_first_session - INFO - Waiting 2 seconds for UI to stabilize...
+2026-02-13 12:33:21 - core.ob_flow_first_session - INFO - ✓ Get Started button is visible
+2026-02-13 12:33:21 - core.ob_flow_first_session - INFO - ✓ Onboarding screen loaded successfully
+2026-02-13 12:33:21 - core.ob_flow_first_session - INFO - Attempting to click Get Started button...
+2026-02-13 12:33:22 - core.ob_flow_first_session - INFO - ✓ Successfully clicked Get Started button
+2026-02-13 12:33:24 - core.ob_flow_first_session - INFO - ✓ Continue button is visible
+2026-02-13 12:33:24 - core.ob_flow_first_session - INFO - ✓ Onboarding screen 2 (Continue) loaded successfully
+2026-02-13 12:33:24 - core.ob_flow_first_session - INFO - Attempting to click Continue button...
+2026-02-13 12:33:24 - core.ob_flow_first_session - INFO - ✓ Successfully clicked Continue button
+2026-02-13 12:33:26 - core.ob_flow_first_session - INFO - === Onboarding Flow Completed Successfully ===
+2026-02-13 16:10:40 - core.ob_flow_first_session - INFO - === Starting Onboarding Flow ===
+2026-02-13 16:10:40 - core.ob_flow_first_session - INFO - Waiting for splash screen (minimum 4 seconds)...
+2026-02-13 16:10:40 - core.ob_flow_first_session - INFO - App activity detected after 0.06 seconds.
+2026-02-13 16:10:40 - core.ob_flow_first_session - INFO - Waiting additional 3.94 seconds for splash screen...
+2026-02-13 16:10:44 - core.ob_flow_first_session - INFO - Splash Screen wait completed.
+2026-02-13 16:10:44 - core.ob_flow_first_session - INFO - Waiting 2 seconds for UI to stabilize...
+2026-02-13 16:10:47 - core.ob_flow_first_session - INFO - ✓ Get Started button is visible
+2026-02-13 16:10:47 - core.ob_flow_first_session - INFO - ✓ Onboarding screen loaded successfully
+2026-02-13 16:10:47 - core.ob_flow_first_session - INFO - Attempting to click Get Started button...
+2026-02-13 16:10:47 - core.ob_flow_first_session - INFO - ✓ Successfully clicked Get Started button
+2026-02-13 16:10:49 - core.ob_flow_first_session - INFO - ✓ Continue button is visible
+2026-02-13 16:10:49 - core.ob_flow_first_session - INFO - ✓ Onboarding screen 2 (Continue) loaded successfully
+2026-02-13 16:10:49 - core.ob_flow_first_session - INFO - Attempting to click Continue button...
+2026-02-13 16:10:49 - core.ob_flow_first_session - INFO - ✓ Successfully clicked Continue button
+2026-02-13 16:10:51 - core.ob_flow_first_session - INFO - ✓ Name input field is visible
+2026-02-13 16:10:51 - core.ob_flow_first_session - INFO - ✓ Onboarding screen 3 (Name Input) loaded successfully
+2026-02-13 16:10:51 - core.ob_flow_first_session - INFO - Attempting to enter name: Mohsin
+2026-02-13 16:10:51 - core.ob_flow_first_session - INFO - ✓ Clicked on name input field
+2026-02-13 16:10:53 - core.ob_flow_first_session - ERROR - ✗ Error entering name: Message: Cannot set the element to 'Mohsin'. Did you interact with the correct element?
+Stacktrace:
+io.appium.uiautomator2.common.exceptions.InvalidElementStateException: Cannot set the element to 'Mohsin'. Did you interact with the correct element?
+	at io.appium.uiautomator2.handler.SendKeysToElement.setText(SendKeysToElement.java:87)
+	at io.appium.uiautomator2.handler.SendKeysToElement.safeHandle(SendKeysToElement.java:115)
+	at io.appium.uiautomator2.handler.request.SafeRequestHandler.handle(SafeRequestHandler.java:59)
+	at io.appium.uiautomator2.server.AppiumServlet.handleRequest(AppiumServlet.java:267)
+	at io.appium.uiautomator2.server.AppiumServlet.handleHttpRequest(AppiumServlet.java:261)
+	at io.appium.uiautomator2.http.ServerHandler.channelRead(ServerHandler.java:77)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:356)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:107)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:356)
+	at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelRead(CombinedChannelDuplexHandler.java:434)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:346)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:318)
+	at io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:249)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:354)
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:293)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:354)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1429)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:918)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:168)
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.handle(AbstractNioChannel.java:445)
+	at io.netty.channel.nio.NioIoHandler$DefaultNioRegistration.handle(NioIoHandler.java:388)
+	at io.netty.channel.nio.NioIoHandler.processSelectedKey(NioIoHandler.java:596)
+	at io.netty.channel.nio.NioIoHandler.processSelectedKeysOptimized(NioIoHandler.java:571)
+	at io.netty.channel.nio.NioIoHandler.processSelectedKeys(NioIoHandler.java:512)
+	at io.netty.channel.nio.NioIoHandler.run(NioIoHandler.java:484)
+	at io.netty.channel.SingleThreadIoEventLoop.runIo(SingleThreadIoEventLoop.java:225)
+	at io.netty.channel.SingleThreadIoEventLoop.run(SingleThreadIoEventLoop.java:196)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:1193)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:1563)
+
+2026-02-13 16:10:53 - core.ob_flow_first_session - ERROR - Failed to enter name
+2026-02-13 16:14:56 - core.ob_flow_first_session - INFO - === Starting Onboarding Flow ===
+2026-02-13 16:14:56 - core.ob_flow_first_session - INFO - Waiting for splash screen (minimum 4 seconds)...
+2026-02-13 16:14:56 - core.ob_flow_first_session - INFO - App activity detected after 0.06 seconds.
+2026-02-13 16:14:56 - core.ob_flow_first_session - INFO - Waiting additional 3.94 seconds for splash screen...
+2026-02-13 16:15:00 - core.ob_flow_first_session - INFO - Splash Screen wait completed.
+2026-02-13 16:15:00 - core.ob_flow_first_session - INFO - Waiting 2 seconds for UI to stabilize...
+2026-02-13 16:15:03 - core.ob_flow_first_session - INFO - ✓ Get Started button is visible
+2026-02-13 16:15:03 - core.ob_flow_first_session - INFO - ✓ Onboarding screen loaded successfully
+2026-02-13 16:15:03 - core.ob_flow_first_session - INFO - Attempting to click Get Started button...
+2026-02-13 16:15:03 - core.ob_flow_first_session - INFO - ✓ Successfully clicked Get Started button
+2026-02-13 16:15:05 - core.ob_flow_first_session - INFO - ✓ Continue button is visible
+2026-02-13 16:15:05 - core.ob_flow_first_session - INFO - ✓ Onboarding screen 2 (Continue) loaded successfully
+2026-02-13 16:15:05 - core.ob_flow_first_session - INFO - Attempting to click Continue button...
+2026-02-13 16:15:05 - core.ob_flow_first_session - INFO - ✓ Successfully clicked Continue button
+2026-02-13 16:15:08 - core.ob_flow_first_session - INFO - ✓ Name input field is visible
+2026-02-13 16:15:08 - core.ob_flow_first_session - INFO - ✓ Onboarding screen 3 (Name Input) loaded successfully
+2026-02-13 16:15:08 - core.ob_flow_first_session - INFO - Attempting to enter name: Mohsin
+2026-02-13 16:15:08 - core.ob_flow_first_session - ERROR - ✗ Error entering name: 'OBFlowsFirstSession' object has no attribute 'NAME_INPUT_XPATH'
+2026-02-13 16:15:08 - core.ob_flow_first_session - ERROR - Failed to enter name
+2026-02-13 16:16:32 - core.ob_flow_first_session - INFO - === Starting Onboarding Flow ===
+2026-02-13 16:16:32 - core.ob_flow_first_session - INFO - Waiting for splash screen (minimum 4 seconds)...
+2026-02-13 16:16:32 - core.ob_flow_first_session - INFO - App activity detected after 0.06 seconds.
+2026-02-13 16:16:32 - core.ob_flow_first_session - INFO - Waiting additional 3.94 seconds for splash screen...
+2026-02-13 16:16:36 - core.ob_flow_first_session - INFO - Splash Screen wait completed.
+2026-02-13 16:16:36 - core.ob_flow_first_session - INFO - Waiting 2 seconds for UI to stabilize...
+2026-02-13 16:16:39 - core.ob_flow_first_session - INFO - ✓ Get Started button is visible
+2026-02-13 16:16:39 - core.ob_flow_first_session - INFO - ✓ Onboarding screen loaded successfully
+2026-02-13 16:16:39 - core.ob_flow_first_session - INFO - Attempting to click Get Started button...
+2026-02-13 16:16:39 - core.ob_flow_first_session - INFO - ✓ Successfully clicked Get Started button
+2026-02-13 16:16:41 - core.ob_flow_first_session - INFO - ✓ Continue button is visible
+2026-02-13 16:16:41 - core.ob_flow_first_session - INFO - ✓ Onboarding screen 2 (Continue) loaded successfully
+2026-02-13 16:16:41 - core.ob_flow_first_session - INFO - Attempting to click Continue button...
+2026-02-13 16:16:41 - core.ob_flow_first_session - INFO - ✓ Successfully clicked Continue button
+2026-02-13 16:16:44 - core.ob_flow_first_session - INFO - ✓ Name input field is visible
+2026-02-13 16:16:44 - core.ob_flow_first_session - INFO - ✓ Onboarding screen 3 (Name Input) loaded successfully
+2026-02-13 16:16:44 - core.ob_flow_first_session - INFO - Attempting to enter name: Mohsin
+2026-02-13 16:16:44 - core.ob_flow_first_session - INFO - ✓ Clicked on name input field
+2026-02-13 16:16:45 - core.ob_flow_first_session - ERROR - ✗ Error entering name: Message: Cannot set the element to 'Mohsin'. Did you interact with the correct element?
+Stacktrace:
+io.appium.uiautomator2.common.exceptions.InvalidElementStateException: Cannot set the element to 'Mohsin'. Did you interact with the correct element?
+	at io.appium.uiautomator2.handler.SendKeysToElement.setText(SendKeysToElement.java:87)
+	at io.appium.uiautomator2.handler.SendKeysToElement.safeHandle(SendKeysToElement.java:115)
+	at io.appium.uiautomator2.handler.request.SafeRequestHandler.handle(SafeRequestHandler.java:59)
+	at io.appium.uiautomator2.server.AppiumServlet.handleRequest(AppiumServlet.java:267)
+	at io.appium.uiautomator2.server.AppiumServlet.handleHttpRequest(AppiumServlet.java:261)
+	at io.appium.uiautomator2.http.ServerHandler.channelRead(ServerHandler.java:77)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:356)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:107)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:356)
+	at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelRead(CombinedChannelDuplexHandler.java:434)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:346)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:318)
+	at io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:249)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:354)
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:293)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:354)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1429)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:918)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:168)
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.handle(AbstractNioChannel.java:445)
+	at io.netty.channel.nio.NioIoHandler$DefaultNioRegistration.handle(NioIoHandler.java:388)
+	at io.netty.channel.nio.NioIoHandler.processSelectedKey(NioIoHandler.java:596)
+	at io.netty.channel.nio.NioIoHandler.processSelectedKeysOptimized(NioIoHandler.java:571)
+	at io.netty.channel.nio.NioIoHandler.processSelectedKeys(NioIoHandler.java:512)
+	at io.netty.channel.nio.NioIoHandler.run(NioIoHandler.java:484)
+	at io.netty.channel.SingleThreadIoEventLoop.runIo(SingleThreadIoEventLoop.java:225)
+	at io.netty.channel.SingleThreadIoEventLoop.run(SingleThreadIoEventLoop.java:196)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:1193)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:1563)
+
+2026-02-13 16:16:45 - core.ob_flow_first_session - ERROR - Failed to enter name
+2026-02-13 16:21:15 - core.ob_flow_first_session - INFO - === Starting Onboarding Flow ===
+2026-02-13 16:21:15 - core.ob_flow_first_session - INFO - Waiting for splash screen (minimum 4 seconds)...
+2026-02-13 16:21:15 - core.ob_flow_first_session - INFO - App activity detected after 0.08 seconds.
+2026-02-13 16:21:15 - core.ob_flow_first_session - INFO - Waiting additional 3.92 seconds for splash screen...
+2026-02-13 16:21:19 - core.ob_flow_first_session - INFO - Splash Screen wait completed.
+2026-02-13 16:21:19 - core.ob_flow_first_session - INFO - Waiting 2 seconds for UI to stabilize...
+2026-02-13 16:21:21 - core.ob_flow_first_session - INFO - ✓ Get Started button is visible
+2026-02-13 16:21:21 - core.ob_flow_first_session - INFO - ✓ Onboarding screen loaded successfully
+2026-02-13 16:21:21 - core.ob_flow_first_session - INFO - Attempting to click Get Started button...
+2026-02-13 16:21:22 - core.ob_flow_first_session - INFO - ✓ Successfully clicked Get Started button
+2026-02-13 16:21:24 - core.ob_flow_first_session - INFO - ✓ Continue button is visible
+2026-02-13 16:21:24 - core.ob_flow_first_session - INFO - ✓ Onboarding screen 2 (Continue) loaded successfully
+2026-02-13 16:21:24 - core.ob_flow_first_session - INFO - Attempting to click Continue button...
+2026-02-13 16:21:24 - core.ob_flow_first_session - INFO - ✓ Successfully clicked Continue button
+2026-02-13 16:21:26 - core.ob_flow_first_session - INFO - ✓ Name input field is visible
+2026-02-13 16:21:26 - core.ob_flow_first_session - INFO - ✓ Onboarding screen 3 (Name Input) loaded successfully
+2026-02-13 16:21:26 - core.ob_flow_first_session - INFO - Attempting to enter name: Mohsin
+2026-02-13 16:21:26 - core.ob_flow_first_session - INFO - ✓ Cleared existing text
+2026-02-13 16:21:27 - core.ob_flow_first_session - INFO - ✓ Clicked on name input field
+2026-02-13 16:21:28 - core.ob_flow_first_session - INFO - ✓ Successfully entered name: Mohsin
+2026-02-13 16:21:28 - core.ob_flow_first_session - INFO - Attempting to hide keyboard...
+2026-02-13 16:21:28 - core.ob_flow_first_session - INFO - ✓ Keyboard hidden successfully
+2026-02-13 16:21:29 - core.ob_flow_first_session - INFO - Attempting to click Continue button...
+2026-02-13 16:21:29 - core.ob_flow_first_session - INFO - ✓ Successfully clicked Continue button
+2026-02-13 16:21:31 - core.ob_flow_first_session - INFO - ======== Onboarding Flow Completed Successfully ========
+2026-02-13 16:21:54 - core.ob_flow_first_session - INFO - === Starting Onboarding Flow ===
+2026-02-13 16:21:54 - core.ob_flow_first_session - INFO - Waiting for splash screen (minimum 4 seconds)...
+2026-02-13 16:21:54 - core.ob_flow_first_session - INFO - App activity detected after 0.08 seconds.
+2026-02-13 16:21:54 - core.ob_flow_first_session - INFO - Waiting additional 3.92 seconds for splash screen...
+2026-02-13 16:21:58 - core.ob_flow_first_session - INFO - Splash Screen wait completed.
+2026-02-13 16:21:58 - core.ob_flow_first_session - INFO - Waiting 2 seconds for UI to stabilize...
+2026-02-13 16:22:01 - core.ob_flow_first_session - INFO - ✓ Get Started button is visible
+2026-02-13 16:22:01 - core.ob_flow_first_session - INFO - ✓ Onboarding screen loaded successfully
+2026-02-13 16:22:01 - core.ob_flow_first_session - INFO - Attempting to click Get Started button...
+2026-02-13 16:22:01 - core.ob_flow_first_session - INFO - ✓ Successfully clicked Get Started button
+2026-02-13 16:22:03 - core.ob_flow_first_session - INFO - ✓ Continue button is visible
+2026-02-13 16:22:03 - core.ob_flow_first_session - INFO - ✓ Onboarding screen 2 (Continue) loaded successfully
+2026-02-13 16:22:03 - core.ob_flow_first_session - INFO - Attempting to click Continue button...
+2026-02-13 16:22:03 - core.ob_flow_first_session - INFO - ✓ Successfully clicked Continue button
+2026-02-13 16:22:05 - core.ob_flow_first_session - INFO - ✓ Name input field is visible
+2026-02-13 16:22:05 - core.ob_flow_first_session - INFO - ✓ Onboarding screen 3 (Name Input) loaded successfully
+2026-02-13 16:22:05 - core.ob_flow_first_session - INFO - Attempting to enter name: Mohsin
+2026-02-13 16:22:06 - core.ob_flow_first_session - INFO - ✓ Cleared existing text
+2026-02-13 16:22:06 - core.ob_flow_first_session - INFO - ✓ Clicked on name input field
+2026-02-13 16:22:07 - core.ob_flow_first_session - INFO - ✓ Successfully entered name: Mohsin
+2026-02-13 16:22:07 - core.ob_flow_first_session - INFO - Attempting to hide keyboard...
+2026-02-13 16:22:08 - core.ob_flow_first_session - INFO - ✓ Keyboard hidden successfully
+2026-02-13 16:22:09 - core.ob_flow_first_session - INFO - Attempting to click Continue button...
+2026-02-13 16:22:09 - core.ob_flow_first_session - INFO - ✓ Successfully clicked Continue button
+2026-02-13 16:22:11 - core.ob_flow_first_session - INFO - ======== Onboarding Flow Completed Successfully ========
+2026-02-13 16:23:29 - core.ob_flow_first_session - INFO - === Starting Onboarding Flow ===
+2026-02-13 16:23:29 - core.ob_flow_first_session - INFO - Waiting for splash screen (minimum 4 seconds)...
+2026-02-13 16:23:29 - core.ob_flow_first_session - INFO - App activity detected after 0.08 seconds.
+2026-02-13 16:23:29 - core.ob_flow_first_session - INFO - Waiting additional 3.92 seconds for splash screen...
+2026-02-13 16:23:33 - core.ob_flow_first_session - INFO - Splash Screen wait completed.
+2026-02-13 16:23:33 - core.ob_flow_first_session - INFO - Waiting 2 seconds for UI to stabilize...
+2026-02-13 16:23:35 - core.ob_flow_first_session - INFO - ✓ Get Started button is visible
+2026-02-13 16:23:35 - core.ob_flow_first_session - INFO - ✓ Onboarding screen loaded successfully
+2026-02-13 16:23:35 - core.ob_flow_first_session - INFO - Attempting to click Get Started button...
+2026-02-13 16:23:35 - core.ob_flow_first_session - INFO - ✓ Successfully clicked Get Started button
+2026-02-13 16:23:38 - core.ob_flow_first_session - INFO - ✓ Continue button is visible
+2026-02-13 16:23:38 - core.ob_flow_first_session - INFO - ✓ Onboarding screen 2 (Continue) loaded successfully
+2026-02-13 16:23:38 - core.ob_flow_first_session - INFO - Attempting to click Continue button...
+2026-02-13 16:23:38 - core.ob_flow_first_session - INFO - ✓ Successfully clicked Continue button
+2026-02-13 16:23:40 - core.ob_flow_first_session - INFO - ✓ Name input field is visible
+2026-02-13 16:23:40 - core.ob_flow_first_session - INFO - ✓ Onboarding screen 3 (Name Input) loaded successfully
+2026-02-13 16:23:40 - core.ob_flow_first_session - INFO - Attempting to enter name: Mohsin
+2026-02-13 16:23:40 - core.ob_flow_first_session - INFO - ✓ Cleared existing text
+2026-02-13 16:23:41 - core.ob_flow_first_session - INFO - ✓ Clicked on name input field
+2026-02-13 16:23:42 - core.ob_flow_first_session - INFO - ✓ Successfully entered name: Mohsin
+2026-02-13 16:23:42 - core.ob_flow_first_session - INFO - Attempting to hide keyboard...
+2026-02-13 16:23:42 - core.ob_flow_first_session - INFO - ✓ Keyboard hidden successfully
+2026-02-13 16:23:43 - core.ob_flow_first_session - INFO - Attempting to click Continue button...
+2026-02-13 16:23:44 - core.ob_flow_first_session - INFO - ✓ Successfully clicked Continue button
+2026-02-13 16:23:46 - core.ob_flow_first_session - INFO - ======== Onboarding Flow Completed Successfully ========
