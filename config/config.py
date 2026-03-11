@@ -4,7 +4,7 @@ from pathlib import Path
 
 # Base paths
 BASE_DIR = Path(__file__).parent.parent
-APK_DIR = BASE_DIR / "Language Translator-debug.apk"
+APK_DIR = BASE_DIR / "CaloVision-debug.apk"
 
 # Appium Server Configuration
 APPIUM_SERVER_URL = "http://127.0.0.1:4723"
